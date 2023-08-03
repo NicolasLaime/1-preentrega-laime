@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NicolasLaime/1-preentrega-laime/static/css/main.900e18fa.css",
+    "main.js": "/NicolasLaime/1-preentrega-laime/static/js/main.97af3704.js",
+    "static/js/787.cbe54622.chunk.js": "/NicolasLaime/1-preentrega-laime/static/js/787.cbe54622.chunk.js",
+    "static/media/logo.svg": "/NicolasLaime/1-preentrega-laime/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NicolasLaime/1-preentrega-laime/index.html",
+    "main.900e18fa.css.map": "/NicolasLaime/1-preentrega-laime/static/css/main.900e18fa.css.map",
+    "main.97af3704.js.map": "/NicolasLaime/1-preentrega-laime/static/js/main.97af3704.js.map",
+    "787.cbe54622.chunk.js.map": "/NicolasLaime/1-preentrega-laime/static/js/787.cbe54622.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900e18fa.css",
+    "static/js/main.97af3704.js"
+  ]
+}
